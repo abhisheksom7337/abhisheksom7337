@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%">
+</p>
 </p><h1 align="center">Hi 👋, I'm Abhishek Som</h1>
 <h3 align="center">🚀 B.Tech CSE (AI/ML) Student | Full Stack Developer | Building SomX</h3>
 
