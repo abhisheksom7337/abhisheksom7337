@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhishek Som</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Som;Founder+of+SomX;Full+Stack+Developer;AI%2FML+Enthusiast;Welcome+to+my+GitHub!" />
+</p><h1 align="center">Hi 👋, I'm Abhishek Som</h1>
 <h3 align="center">🚀 B.Tech CSE (AI/ML) Student | Full Stack Developer | Building SomX</h3>
 
 <p align="center">
