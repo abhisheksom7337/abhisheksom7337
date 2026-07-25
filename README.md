@@ -75,6 +75,8 @@ Campus Super App for Students
 
 [Twitter](https://x.com/abhisheksom7337)
 
+[Instagram](https://www.instagram.com/the_abhishekk_7337/?next=%2F)
+
 ---
 
 ⭐ From Abhishek Som
