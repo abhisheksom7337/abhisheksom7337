@@ -41,14 +41,12 @@
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.instagram.com/the_abhishekk_7337/?next=%2F">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-
-<a href="https://github.com/abhisheksom7337">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://x.com/abhisheksom7337">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
-
 <a href="mailto:abhisheksom7337@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -130,18 +128,6 @@ A Campus Super App built for students.
 
 ---
 
-# 🎧 Spotify (Optional)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app)
-
----
-
-# ⌨️ Coding Time (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 # 📌 Pinned Projects
 
@@ -155,13 +141,7 @@ A Campus Super App built for students.
 
 ---
 
-# ☕ Support Me
 
-<a href="https://buymeacoffee.com/Abhishek Som">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
-</a>
-
----
 
 # 😂 Developer Joke
 
