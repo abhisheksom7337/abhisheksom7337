@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,figma,tailwind,firebase,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,,mongodb,mysql,python,java,,c,git,github,vscode,figma,tailwind,firebase,vercel,netlify"/>
 
 </p>
 
