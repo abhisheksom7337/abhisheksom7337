@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+ML+Enthusiast;Founder+of+SomX;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisheksom7337&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/abhisheksom7337?label=Followers&style=social" />
-</p>
+
 
 ---
 
