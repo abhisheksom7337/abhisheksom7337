@@ -24,19 +24,15 @@
 
 🌱 Currently Learning
 
-- React
-- Node.js
 - Python
-- AI/ML
-- MongoDB
+- Machine Learning
 
 💻 Passionate about
 
-- Web Development
+- System Design
 - Artificial Intelligence
 - UI/UX
 - Startups
-- Open Source
 
 ---
 
