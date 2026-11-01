@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://www.instagram.com/the_abhishekk_7337/?next=%2F">
 <img src="https://skillicons.dev/icons?i=instagram"/>
-</a><tab>
+</a>
 <a href="https://x.com/abhisheksom7337">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
