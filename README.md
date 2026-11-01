@@ -13,7 +13,7 @@
 
 # 💫 About Me
 
-🎓 B.Tech CSE (AI/ML)
+🎓 B.Tech CSE (AI/ML) Student
 
 🏫 Galgotias University
 
@@ -24,7 +24,7 @@
 <br>
 
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Python
 - Machine Learning
@@ -34,7 +34,7 @@
 <br>
 
 
-💻 Passionate about
+💻 **Passionate about**
 
 - System Design
 - Artificial Intelligence
