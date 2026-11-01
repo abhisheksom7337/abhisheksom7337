@@ -87,12 +87,6 @@
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhisheksom7337&theme=tokyo-night)](https://github.com/abhisheksom7337)
-
----
-
 
 
 # 📅 Contribution Calendar
