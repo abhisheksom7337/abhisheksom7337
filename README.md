@@ -22,10 +22,20 @@
 
 🚀 Founder of **SomX – Campus Super App**
 
+
+<br>
+<br>
+
+
 🌱 Currently Learning
 
 - Python
 - Machine Learning
+
+
+<br>
+<br>
+
 
 💻 Passionate about
 
@@ -48,43 +58,27 @@
 <a href="mailto:abhisheksom7337@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<a href="https://www.linkedin.com/in/abhishek-som-733ag7/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 </p>
 
 ---
+
+<br>
 
 # 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,,mongodb,mysql,python,java,,c,git,github,vscode,figma,tailwind,firebase,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,python,c,git,github,vscode,vercel,netlify"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Project
-
-## 🌟 SomX
-
-A Campus Super App built for students.
-
-✨ Features
-
-- AI Assistant
-- Notes
-- Assignments
-- PYQs
-- Marketplace
-- Chat
-- Events
-- Clubs
-- Placements
-- Timetable
-- Attendance
-- Lost & Found
-
----
+<br>
 
 # 📊 GitHub Stats
 
@@ -102,17 +96,7 @@ A Campus Super App built for students.
 
 ---
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abhisheksom7337&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-# 🔥 Contribution Snake
-
-![Snake animation](https://github.com/abhisheksom7337/abhisheksom7337/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 📅 Contribution Calendar
 
@@ -120,38 +104,15 @@ A Campus Super App built for students.
 
 ---
 
-# ⚡ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 
 # 📌 Pinned Projects
 
 ⭐ SomX
 
-⭐ Portfolio Website
-
-⭐ AI Projects
-
-⭐ Web Development Projects
-
 ---
 
 
-
-# 😂 Developer Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
-# 🐍 Watch my Contributions get eaten!
-
-![Snake animation](https://github.com/abhisheksom7337/abhisheksom7337/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
