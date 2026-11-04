@@ -85,7 +85,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhisheksom7337&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksom7337&layout=compact&theme=tokyonight)
 
 
 
