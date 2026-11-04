@@ -77,13 +77,14 @@
 
 <br>
 
+
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abhisheksom7337&theme=tokyonight&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksom7337&theme=tokyonight&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksom7337&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhisheksom7337&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksom7337&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksom7337&layout=compact&theme=tokyonight)
 
 ---
 
